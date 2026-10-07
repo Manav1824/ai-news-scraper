@@ -1,0 +1,52 @@
+[
+  {
+    "headline": "Sharing AI progress in mathematics",
+    "primary_topic": "AI",
+    "market_impact": "Medium"
+  },
+  {
+    "headline": "Strands Decider 2B: a small, open-source, decision model",
+    "primary_topic": "AI",
+    "market_impact": "Low"
+  },
+  {
+    "headline": "Calling It Quits on ServerFault",
+    "primary_topic": "Software",
+    "market_impact": "Low"
+  },
+  {
+    "headline": "Decisions API is in public beta",
+    "primary_topic": "Software",
+    "market_impact": "Low"
+  },
+  {
+    "headline": "Penguin Mail – open-source Rust email client for Linux with AI",
+    "primary_topic": "Software",
+    "market_impact": "Low"
+  },
+  {
+    "headline": "La Cueva BBS in Mexico in 1993 (session replay)",
+    "primary_topic": "Tech History",
+    "market_impact": "Low"
+  },
+  {
+    "headline": "The cost of lies: A Mineserver story",
+    "primary_topic": "Gaming",
+    "market_impact": "Low"
+  },
+  {
+    "headline": "Mistral Large 4",
+    "primary_topic": "AI",
+    "market_impact": "High"
+  },
+  {
+    "headline": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+    "primary_topic": "AI",
+    "market_impact": "Medium"
+  },
+  {
+    "headline": "What Is Codemode",
+    "primary_topic": "Software",
+    "market_impact": "Low"
+  }
+]
